@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-imron.txt
-jittiwat sud loh.txt
-=======
-imron
-jittiwat
->>>>>>> edf869231c86b27602168536df747b4c0295b80c
